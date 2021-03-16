@@ -6,7 +6,8 @@ export default class App extends Component {
     return (
       <div className="App">
         <div className="content">
-          Hello, your react app is deployed to heroku
+          Hello, your react app is deployed to heroku.
+          Check for Automatic Deployment.
         </div>
       </div>
     );
